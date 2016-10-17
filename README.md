@@ -1,0 +1,2 @@
+# mif
+Magento Is Fine
